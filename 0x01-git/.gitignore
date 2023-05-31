@@ -1,0 +1,17 @@
+# Ignore Emacs temporary files
+*~
+
+# Ignore Emacs backup files
+.*~
+
+# Ignore auto-save files
+# These files have a # at the end of the filename
+# and are located in the same directory as the edited file
+*#
+
+# Ignore Emacs autosave files
+.#*
+
+# Ignore Emacs session files
+.emacs.desktop
+
